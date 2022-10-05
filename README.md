@@ -18,8 +18,8 @@ Looking for a job opportunity in order to develop my professional skills and gai
 
 <div align="center">
   <a href="https://github.com/Alec-echeverria">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Alec-echeverria&hide=contribs,prs"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alec-echeverria&layout=compact"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Alec-echeverria&hide=contribs,prs"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alec-echeverria&layout=compact"/>
 </div>
 
 
