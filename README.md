@@ -52,7 +52,7 @@ Looking for a job opportunity in order to develop my professional skills and gai
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alejandro-echeverria-289599252/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@AlejandroEcheverria-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:alejandroecheverria@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alejandroecheverria.log@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:alejandroecheverria.log@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alejandroecheverria.log@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 ⭐️ From [@alec-echeverria](https://github.com/alec-echeverria)
