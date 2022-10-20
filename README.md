@@ -36,6 +36,11 @@ Looking for a job opportunity in order to develop my professional skills and gai
 <div align="center">  
 <img style="margin: 10px" src="https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg" alt="Coming soon" width="40" />  
 </div>
+ 
+ <h3>Another language</h3>
+<div align="center">
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" /> 
+</div>
 
 <h3>Tools</h3>
 <div align="center">
