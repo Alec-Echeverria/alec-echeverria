@@ -48,7 +48,7 @@ Looking for a job opportunity in order to develop my professional skills and gai
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="60" /> 
 <img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Github" width="60" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="Vs Code" width="40" />
-<img style="margin: 10px" src="https://assets.website-files.com/5c1b064db9734016ca52ab39/5d31d6edf970ee4cd6188a93_vert_onwhite_RGB%404x.png" alt="CodeStream" width="60" />
+
 </div>
 
 <br>
