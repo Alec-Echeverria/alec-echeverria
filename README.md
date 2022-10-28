@@ -22,7 +22,7 @@ Looking for a job opportunity in order to develop my professional skills and gai
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alec-echeverria&layout=compact"/>
 </div>
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Alec-Echeverria&bg_color=fcfcfc&color=9e4c98&line=9e4c98&point=141414&area=true&hide_border=true)](https://github.com/Alec-Echeverria?tab=repositories]
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Alec-Echeverria&bg_color=fcfcfc&color=9e4c98&line=9e4c98&point=141414&area=true&hide_border=true)](https://github.com/Alec-Echeverria?tab=repositories)
 
 <h2>Skills</h2>
 
