@@ -1,5 +1,5 @@
 <h2>
-Hi, I'm Alejandro Echeverria!! <img src="https://user-images.githubusercontent.com/113947516/193951090-62359458-36a9-4372-9469-e6d55d6e7719.gif" width="60"/> <img src="https://komarev.com/ghpvc/?username=alec-echeverria" alt="alec-echeverria" align="right"/>
+Hi, I'm Alejandro Echeverria!! <img src="https://user-images.githubusercontent.com/113947516/193951090-62359458-36a9-4372-9469-e6d55d6e7719.gif" width="60"/> <img src="https://komarev.com/ghpvc/?username=alec-echeverri" alt="alec-echeverria" align="right"/>
 </h2>
 
 <p>Mecatronic Enginner at <a href="https://www.uniagraria.edu.co/">Universidad Agraria de Colombia</a></p>
