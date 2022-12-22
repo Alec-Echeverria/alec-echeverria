@@ -21,40 +21,63 @@ Looking for a job opportunity in order to develop my professional skills and gai
   <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Alec-echeverria&hide=contribs,prs"/>
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alec-echeverria&layout=compact"/>
 </div>
-  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Alec-Echeverria&bg_color=fcfcfc&color=9e4c98&line=9e4c98&point=141414&area=true&hide_border=true)](https://github.com/Alec-Echeverria?tab=repositories)
+ 
 
+
+ 
 <h2>Skills</h2>
-
+<div>
 <h3>Frontend</h3>
-<div align="center">
- <a href="https://html.spec.whatwg.org/multipage/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" /> <a/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" />    
-</div>
-
-<h3>Backend</h3> 
-<div align="center">  
-<img style="margin: 10px" src="https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg" alt="Coming soon" width="40" />  
+   <table width="100" align="center">
+<tbody><tr>
+    <td align="center" width="80"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" /> 
+    </td>
+ <td align="center" width="80"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" /> 
+    </td>
+ <td align="center" width="80"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" /> 
+    </td>
+</tr>
+</tbody></table>
 </div>
  
- <h3>Another language</h3>
-<div align="center">
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" /> 
+<div>
+<h3>Backend</h3>
+   <table width="100" align="center">
+<tbody><tr>
+    <td align="center" width="80"> <img style="margin: 10px" src="https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg" alt="Coming soon" width="40" />  
+    </td>
+</tr>
+</tbody></table
+ </div>
+ 
+ <div>
+ <h3>Another Language</h3>
+  <table width="100" align="center">
+<tbody><tr>
+    <td align="center" width="80"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" /> 
+    </td>
+</tr>
+</tbody></table>
 </div>
-
+    
+<div>   
 <h3>Tools</h3>
-<div align="center">
-<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40" /> 
-<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="60" /> 
-<img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Github" width="60" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="Vs Code" width="40" />
-
-</div>
-
+ <table width="100" align="center">
+<tbody><tr>
+    <td align="center" width="80"> <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40" />
+    </td>
+    <td align="center" width="80"> <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="60" />
+    </td>
+    <td align="center" width="80"> <img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Github" width="60" />
+    </td>
+    <td align="center" width="80"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="Vs Code" width="40" />
+    </td>
+</tr>
+</tbody></table> 
+ </div>
+    
 <br>
-
-
+<div>
 <h2> 🤝🏻 Connect with Me </h2>
 
 <p align="center">
@@ -66,7 +89,7 @@ Looking for a job opportunity in order to develop my professional skills and gai
 <br>
 
 [![GitHub alec-echeverria](https://img.shields.io/github/followers/alec-echeverria?label=follow&style=social)](https://github.com/alec-echeverria)
-
+</div>
 
 
 
