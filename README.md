@@ -48,15 +48,7 @@ Mechatronic Engineer with interest in software design, Data Science, systems mod
 </tbody></table
  </div>
  
- <div>
- <h3>Another Language</h3>
-  <table width="100" align="center">
-<tbody><tr>
-    <td align="center" width="80"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" /> 
-    </td>
-</tr>
-</tbody></table>
-</div>
+
     
 <div>   
 <h3>Tools</h3>
