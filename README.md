@@ -8,9 +8,7 @@ Hi, I'm Alejandro Echeverria!! <img src="https://user-images.githubusercontent.c
 
 <div>
  <p>
-I am a Mechatronic Engineering student with completed courses, with a great interest in software design, Data Science, system modeling & application development. Fast learner, hard worker and team player, who is constantly trained in programming languages and multimedia web tools.
-
-Looking for a job opportunity in order to develop my professional skills and gain more experience.
+Mechatronic Engineer with interest in software design, Data Science, systems modeling and application development. I have strong skills in data analysis, algorithm implementation, and programming in languages ​​such as Python, Java, JavaScript, and SQL, among others.
 </p>
 </div>
 
