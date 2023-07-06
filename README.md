@@ -42,7 +42,7 @@ Mechatronic Engineer with interest in software design, Data Science, systems mod
 <h3>Backend</h3>
    <table width="100" align="center">
 <tbody><tr>
-    <td align="center" width="80"> <img style="margin: 10px" src="https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg" alt="Coming soon" width="40" />  
+     <td align="center" width="80"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" />  
     </td>
 </tr>
 </tbody></table
